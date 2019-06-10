@@ -1,0 +1,18 @@
+[submodule "submodules/bob_robotics"]
+	path = submodules/bob_robotics
+	url = ../bob_robotics
+[submodule "submodules/genn"]
+	path = submodules/genn
+	url = ../genn-team/genn
+[submodule "submodules/spine_creator/brahms"]
+	path = submodules/spine_creator/brahms
+	url = ../BRAHMS-SystemML/brahms.git
+[submodule "submodules/spine_creator/SpineML_PreFlight"]
+	path = submodules/spine_creator/SpineML_PreFlight
+	url = ../SpineML/SpineML_PreFlight.git
+[submodule "submodules/spine_creator/SpineML_2_BRAHMS"]
+	path = submodules/spine_creator/SpineML_2_BRAHMS
+	url = ../SpineML/SpineML_2_BRAHMS.git
+[submodule "submodules/spine_creator/SpineCreator"]
+	path = submodules/spine_creator/SpineCreator
+	url = ../SpineML/SpineCreator.git
