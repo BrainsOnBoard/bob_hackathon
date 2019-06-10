@@ -33,3 +33,7 @@ If you followed the steps above you should have all the source code you need in 
 Installation instructions for the various programs are available online:
 * [Instructions for GeNN](https://github.com/genn-team/genn/blob/master/README.md)
 * [Instructions for Spine Creator](https://spineml.github.io/spinecreator)
+
+## Other dependencies
+We will use a program called Gazebo for the robot simulation, which can be downloaded [here](http://gazebosim.org). If you're using Ubuntu you can install it with your package manager.
+
