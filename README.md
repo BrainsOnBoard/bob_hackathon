@@ -1,7 +1,9 @@
 # Brains on Board hackathon
 Hello BoBers!
 
-This repository contains installation instructions for the various bits and pieces you'll need to install on your laptop if you'd like to use it for the hackathon (we can share machines, so not everyone needs to do this -- but the more the better!). It also contains git submodules for the various in-house programs we'll be using.
+(**NOTE**: This repository is currently a work in progress while we finish up our hacking, so you won't be able to build the program for the hackathon yet. You should be able to install the dependencies though.)
+
+This repository contains installation instructions for the various bits and pieces you'll need to install on your laptop if you'd like to use it for the hackathon (we can share machines, so not everyone needs to do this -- but the more the better!). It also contains git submodules for the various in-house programs we'll be using. The submodules are included for convenience so you don't have to download all the source code manually and to ensure you get the right versions.
 
 So first things first...
 
@@ -24,3 +26,10 @@ If you do find yourself without the submodules (i.e. the subfolders in the ``sub
 ```
 git submodule update --init --recursive .
 ```
+
+## Building the needed programs from source
+If you followed the steps above you should have all the source code you need in the ``submodules`` directory, so you don't need to download these programs again.
+
+Installation instructions for the various programs are available online:
+* [Instructions for GeNN](https://github.com/genn-team/genn/blob/master/README.md)
+* [Instructions for Spine Creator](https://spineml.github.io/spinecreator)
