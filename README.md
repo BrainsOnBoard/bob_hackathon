@@ -8,7 +8,7 @@ This repository contains information about the hackathon, as well as installatio
 It also contains git submodules for the various in-house programs we'll be using. The submodules are included for convenience so you don't have to download all the source code manually and to ensure you get the right versions.
 
 ## Programme
-The programme for the hackathon is available [here](markdown.md).
+The programme for the hackathon is available [here](programme.md).
 
 For those of you who want to install the software, keep reading...
 
