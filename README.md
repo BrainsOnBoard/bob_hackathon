@@ -3,9 +3,14 @@ Hello BoBers!
 
 (**NOTE**: This repository is currently a work in progress while we finish up our hacking, so you won't be able to build the program for the hackathon yet. You should be able to install the dependencies though.)
 
-This repository contains installation instructions for the various bits and pieces you'll need to install on your laptop if you'd like to use it for the hackathon (we can share machines, so not everyone needs to do this -- but the more the better!). It also contains git submodules for the various in-house programs we'll be using. The submodules are included for convenience so you don't have to download all the source code manually and to ensure you get the right versions.
+This repository contains information about the hackathon, as well as installation instructions for the various bits and pieces you'll need to install on your laptop if you'd like to use it for the hackathon (we can share machines, so not everyone needs to do this -- but the more the better!).
 
-So first things first...
+It also contains git submodules for the various in-house programs we'll be using. The submodules are included for convenience so you don't have to download all the source code manually and to ensure you get the right versions.
+
+## Programme
+The programme for the hackathon is available [here](markdown.md).
+
+For those of you who want to install the software, keep reading...
 
 ## Installing git
 If you haven't used git before, now is a good opportunity to learn :-).
