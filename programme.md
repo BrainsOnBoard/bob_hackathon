@@ -35,10 +35,11 @@ in a collaborative environment. A short toolkit of techniques used in
 collaborative groups will also be provided to refresh memories.
 
 Relevant software will need to be downloaded in advance of the event.
-One of the tools we will be using is a digital pinboard called Padlet.
-It is fairly intuitive to use but if you like more information this
-video provides an overview:
-<https://www.youtube.com/watch?v=g8CkA7Du5do>
+Each team will also need to set up a Digital Pinboard using an app
+called Padlet. You will use this to keep a logbook of your
+process/vision and learning in a visually inspiring way. It is fairly
+intuitive to use but if you like more information this video provides an
+overview: <https://www.youtube.com/watch?v=g8CkA7Du5do>
 
 <table>
 <thead>
@@ -72,14 +73,14 @@ video provides an overview:
 <td>Flexible timing subject to Hackathon requirements</td>
 </tr>
 <tr class="even">
-<td>13.30</td>
+<td>13.15</td>
 <td><p><strong>Session Three</strong></p>
 <p>Hackathon Session 2</p></td>
-<td><p>Continuation of the Hackathon Challenge (2 hours)</p>
-<p>Learning Review (30 mins)</p></td>
+<td><p>Continuation of the Hackathon Challenge (2.75 hours)</p>
+<p>Learning Review (~20 mins)</p></td>
 </tr>
 <tr class="odd">
-<td>16.00</td>
+<td>16.15</td>
 <td><p><strong>Session Four</strong></p>
 <p>Demonstrations</p></td>
 <td><p>Demonstration Presentations</p>
@@ -89,8 +90,7 @@ video provides an overview:
 <td>17.00</td>
 <td><p><strong>Session Five</strong></p>
 <p>Review of Learning and Next Steps</p></td>
-<td><p>Lessons learnt about collaboration</p>
-<p>Review of the Hackathon format, our learning from this and how we could use this to support public engagement</p>
+<td><p>Hackathon Post-mortem - learning from this and how we could use this learning to support our work</p>
 <p>Next Steps and Feedback on Day</p></td>
 </tr>
 <tr class="odd">
